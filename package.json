@@ -1,0 +1,11 @@
+{
+  "name": "imoge-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WooyeongCho/imoge-bot",
+  "author": "WooyeongCho",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
